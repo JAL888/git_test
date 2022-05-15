@@ -1,1 +1,2 @@
 First trial of using Git and Github
+This is trialling the new "-m" removal
